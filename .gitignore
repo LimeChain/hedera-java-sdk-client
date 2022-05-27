@@ -1,0 +1,14 @@
+# IDEA files
+.idea
+*.iml
+.settings
+*.log
+
+# Gradle
+.gradle
+build
+
+# Mac system
+.DS_Store
+
+.project
