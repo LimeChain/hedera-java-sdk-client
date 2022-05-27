@@ -3,10 +3,12 @@
 *.iml
 .settings
 *.log
+bin
 
 # Gradle
 .gradle
 build
+gradle
 
 # Mac system
 .DS_Store
